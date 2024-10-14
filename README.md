@@ -1,3 +1,14 @@
+## Key Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3F4F75?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+
 # CNN CIFAR-10 Image Classification
 
 This project was developed as part of my Master's program in Data Science and Artificial Intelligence. It focuses on classifying images from the CIFAR-10 dataset using Convolutional Neural Networks (CNNs). The primary goal was to achieve at least 80% accuracy on the test set through architectural modifications alone. I conducted a total of 12 experiments, exceeding the minimum requirement of 10 different experiments.
