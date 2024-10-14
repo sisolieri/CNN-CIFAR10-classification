@@ -11,7 +11,7 @@ The CIFAR-10 dataset consists of 60,000 32x32 color images across 10 classes. Th
 - **Best Overall Accuracy**: 90.7% using Data Augmentation.
 - **Transfer Learning**: The final experiment applied VGG-16, achieving lower accuracy than the augmented CNN. Future improvements will focus on better applying transfer learning.
 
-## Key Skills Demonstrated
+## Key Skills
 
 - **Deep Learning**: Implementation and optimization of CNN architectures.
 - **Model Optimization**: Techniques like dropout, batch normalization, and data augmentation.
